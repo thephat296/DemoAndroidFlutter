@@ -1,0 +1,180 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/ca09e48d8c103e19647b042c0be8ee34/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/lap12419/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/effe6d4382654309cc28b25fb8141098/AndroidManifest.xml:2:1-11:12
+MERGED from [:flutter] /home/lap12419/AndroidStudioProjects/MyFlutter/my_flutter/.android/Flutter/build/intermediates/manifests/full/debug/AndroidManifest.xml:3:1-14:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/lap12419/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/f14d30920196aaf549f3504a6ce6bb74/AndroidManifest.xml:15:1-21:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/6f497a466ab526841429dfd50b757ead/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/bf8bbe93e4c8687cfd936598a5b7988f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v13:27.1.1] /home/lap12419/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/12425f6c90825df5d66b7e81eea61bef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/lap12419/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/dc9a6908f90df878692afa0b0001d01a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/lap12419/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/7152c816a8d630f1fa67ef8b356eb97c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/26c560bbc717c7695c65b4e232e059bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/30febb55f4039255c9ae14fd3807a6ab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/e8c044babcf6aba929c73be4e67c0795/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/7b393b7e21e8fb5590e1545d7ebe2982/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/631b98657603a9f41d2877c954bab536/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/e0ab5c469be1538de4b62c033c6af38f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/c3a5337cee68977a0acc73b3e0e013f1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/98b991d44c858b5ce53c84673b8842ab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/f8285c997913ea27ffb1c13067a002cd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/16df3e9926254a04ef3e9085b3019a56/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/42ebc3d7674c3d70996cf7c0a3536ba9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/89c43c46367cf276093b5da98ac2c0b9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/fe52e816ec5ca19ff599f9f7e92c7c76/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/bb6cedb5e169eea203ecac6cf215d594/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/lap12419/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1b92a83710ed1edffcb1cb141541cdfd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/lap12419/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/eb94014c713b61bd1d041ad49ce89342/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/lap12419/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/640a95fe2db9ff48f7356d7bce4ee236/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/8cd7ceae2b9be1614dc788f1e49d1440/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/8ce65738f289f4458fd42aa597782c36/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/ed8eddfa77bc9d19f9fbeba641b35c86/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/lap12419/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c1abb0704656e2d0d4331072c2e324c3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/f20439e6c0b7701c3e35a6c21b6e843d/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml:4:5-49
+		INJECTED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml
+		ADDED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml
+		ADDED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml:6:5-90
+INJECTED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml:6:5-90
+INJECTED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml:6:5-90
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/ca09e48d8c103e19647b042c0be8ee34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/ca09e48d8c103e19647b042c0be8ee34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/lap12419/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/effe6d4382654309cc28b25fb8141098/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/lap12419/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/effe6d4382654309cc28b25fb8141098/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter] /home/lap12419/AndroidStudioProjects/MyFlutter/my_flutter/.android/Flutter/build/intermediates/manifests/full/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:flutter] /home/lap12419/AndroidStudioProjects/MyFlutter/my_flutter/.android/Flutter/build/intermediates/manifests/full/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/lap12419/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/f14d30920196aaf549f3504a6ce6bb74/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/lap12419/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/f14d30920196aaf549f3504a6ce6bb74/AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/6f497a466ab526841429dfd50b757ead/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/6f497a466ab526841429dfd50b757ead/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/bf8bbe93e4c8687cfd936598a5b7988f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/bf8bbe93e4c8687cfd936598a5b7988f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.1] /home/lap12419/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/12425f6c90825df5d66b7e81eea61bef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.1] /home/lap12419/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/12425f6c90825df5d66b7e81eea61bef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/lap12419/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/dc9a6908f90df878692afa0b0001d01a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/lap12419/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/dc9a6908f90df878692afa0b0001d01a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/lap12419/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/7152c816a8d630f1fa67ef8b356eb97c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/lap12419/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/7152c816a8d630f1fa67ef8b356eb97c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/26c560bbc717c7695c65b4e232e059bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/26c560bbc717c7695c65b4e232e059bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/30febb55f4039255c9ae14fd3807a6ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/30febb55f4039255c9ae14fd3807a6ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/e8c044babcf6aba929c73be4e67c0795/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/e8c044babcf6aba929c73be4e67c0795/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/7b393b7e21e8fb5590e1545d7ebe2982/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/7b393b7e21e8fb5590e1545d7ebe2982/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/631b98657603a9f41d2877c954bab536/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/631b98657603a9f41d2877c954bab536/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/e0ab5c469be1538de4b62c033c6af38f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/e0ab5c469be1538de4b62c033c6af38f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/c3a5337cee68977a0acc73b3e0e013f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/c3a5337cee68977a0acc73b3e0e013f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/98b991d44c858b5ce53c84673b8842ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/98b991d44c858b5ce53c84673b8842ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/f8285c997913ea27ffb1c13067a002cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/f8285c997913ea27ffb1c13067a002cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/16df3e9926254a04ef3e9085b3019a56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/16df3e9926254a04ef3e9085b3019a56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/42ebc3d7674c3d70996cf7c0a3536ba9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/42ebc3d7674c3d70996cf7c0a3536ba9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/89c43c46367cf276093b5da98ac2c0b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/89c43c46367cf276093b5da98ac2c0b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/fe52e816ec5ca19ff599f9f7e92c7c76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/fe52e816ec5ca19ff599f9f7e92c7c76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/bb6cedb5e169eea203ecac6cf215d594/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/bb6cedb5e169eea203ecac6cf215d594/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/lap12419/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1b92a83710ed1edffcb1cb141541cdfd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/lap12419/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1b92a83710ed1edffcb1cb141541cdfd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/lap12419/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/eb94014c713b61bd1d041ad49ce89342/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/lap12419/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/eb94014c713b61bd1d041ad49ce89342/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/lap12419/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/640a95fe2db9ff48f7356d7bce4ee236/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/lap12419/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/640a95fe2db9ff48f7356d7bce4ee236/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/8cd7ceae2b9be1614dc788f1e49d1440/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/8cd7ceae2b9be1614dc788f1e49d1440/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/8ce65738f289f4458fd42aa597782c36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/8ce65738f289f4458fd42aa597782c36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/ed8eddfa77bc9d19f9fbeba641b35c86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/ed8eddfa77bc9d19f9fbeba641b35c86/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/lap12419/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c1abb0704656e2d0d4331072c2e324c3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/lap12419/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c1abb0704656e2d0d4331072c2e324c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/f20439e6c0b7701c3e35a6c21b6e843d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/f20439e6c0b7701c3e35a6c21b6e843d/AndroidManifest.xml:20:5-44
+INJECTED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml:6:5-90
+INJECTED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml:6:5-90
+	tools:overrideLibrary
+		ADDED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml:6:42-87
+	android:targetSdkVersion
+		INJECTED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml
+		ADDED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml:6:5-90
+		INJECTED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml:6:15-41
+		INJECTED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml:7:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/lap12419/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/effe6d4382654309cc28b25fb8141098/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/lap12419/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/effe6d4382654309cc28b25fb8141098/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/89c43c46367cf276093b5da98ac2c0b9/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/89c43c46367cf276093b5da98ac2c0b9/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/fe52e816ec5ca19ff599f9f7e92c7c76/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/fe52e816ec5ca19ff599f9f7e92c7c76/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-rc01] /home/lap12419/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/89c43c46367cf276093b5da98ac2c0b9/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml:8:9-38
+activity#com.example.lap12419.myapplication.MainActivity
+ADDED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.example.lap12419.myapplication.MyFlutterActivity
+ADDED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml:22:9-55
+	android:name
+		ADDED from /home/lap12419/AndroidStudioProjects/MyFlutter/MyApplication/app/src/main/AndroidManifest.xml:22:19-52
+uses-permission#android.permission.INTERNET
+ADDED from [:flutter] /home/lap12419/AndroidStudioProjects/MyFlutter/my_flutter/.android/Flutter/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from [:flutter] /home/lap12419/AndroidStudioProjects/MyFlutter/my_flutter/.android/Flutter/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:22-64
